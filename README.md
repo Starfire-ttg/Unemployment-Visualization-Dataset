@@ -14,7 +14,7 @@ Data Visualization Project analyzing Austrian unemployment data from AMS (Arbeit
 - `environment.yml`: software environment
 
 ## Tools
-Python, Jupyter Notebook.
+Python, Jupyter Notebook, pandas, Altair
 
 ## Team
 Team project with David, Kelvin and Christabel.
